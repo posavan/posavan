@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Nikolai Posavatz, an aspiring Software Developer with experience in Java, C#, and JavaScript.
+I'm currently working on learning Unity.
+Feel free to contact me at nikolai.posavatz@gmail.com for any career or professional opportunities.
