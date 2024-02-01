@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nikolai Posavatz, an aspiring Software Developer with experience in Java, C#, and JavaScript.
-I'm currently working on learning Unity.
+I'm Nikolai Posavatz, an aspiring Software Developer with experience in Java, C#, C, and JavaScript.
+I'm currently working on building a game in Windows without an engine.
 Feel free to contact me at nikolai.posavatz@gmail.com for any career or professional opportunities.
